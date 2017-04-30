@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/fosb/2LPOO1617.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:NunoOliveira56/LPOO1617_T4G12.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\NunoDuarte\git" />
