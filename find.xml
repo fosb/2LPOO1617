@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\example\nunoduarte\FinalProject\MainActivity.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\example\nunoduarte\FinalProject\MainActivity.java'" />
+    <option name="customScope" value="Project 'FinalProject'" />
+    <option name="defaultScopeName" value="Project 'FinalProject'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\example\nunoduarte\FinalProject\MainActivity.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'FinalProject'" />
   </component>
 </application>
